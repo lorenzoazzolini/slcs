@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Affogato-Black';
-    src: url('assets/affogato-webfont/webfont/Affogato-Black.eot');
-    src: url('assets/affogato-webfont/webfont/Affogato-Black.eot?#iefix') format('embedded-opentype'),
-    	 url('assets/affogato-webfont/webfont/Affogato-Black.woff') format('woff'),
-         url('assets/affogato-webfont/webfont/Affogato-Black.woff2') format('woff2'),
-         url('assets/affogato-webfont/webfont/Affogato-Black.ttf')  format('truetype'),
-         url('assets/affogato-webfont/webfont/Affogato-Black.svg') format('svg');
+    src: url('/css/webfont/Affogato-Black.eot');
+    src: url('/css/webfont/Affogato-Black.eot?#iefix') format('embedded-opentype'),
+    	 url('/css/webfont/Affogato-Black.woff') format('woff'),
+         url('/css/webfont/Affogato-Black.woff2') format('woff2'),
+         url('/css/webfont/Affogato-Black.ttf')  format('truetype'),
+         url('/css/webfont/Affogato-Black.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -21,23 +21,23 @@
 }
 
 
-h1 {font-family: 'Affogato-Black', sans-serif; !important}
-h2 {font-family: 'Affogato-regular', sans-serif; !important}
-h3 {font-family: 'Affogato-regular', sans-serif;}
-h4 {font-family: 'Affogato-Black', sans-serif; !important}
-h5 {font-family: 'Affogato-regular', sans-serif; !important}
-h6 {font-family: 'Affogato-regular', sans-serif; !important}
-p {font-family: 'Affogato-regular', sans-serif; !important}
+h1 {font-family: 'Affogato-Black', sans-serif; font-weight: 900;}
+h2 {font-family: 'Affogato-Regular', sans-serif;}
+h3 {font-family: 'Affogato-Regular', sans-serif;}
+h4 {font-family: 'Affogato-Black', sans-serif; font-weight: 900;}
+h5 {font-family: 'Affogato-Regular', sans-serif;}
+h6 {font-family: 'Affogato-Regular', sans-serif;}
+p {font-family: 'Affogato-Regular', sans-serif;}
 
-.display {font-family: 'Affogato-regular', sans-serif; !important}
-.btn {font-family: 'Affogato-regular', sans-serif; !important}
-.fw-bold {font-family: 'Affogato-regular', sans-serif; !important}
-.fw-bolder {font-family: 'Affogato-regular', sans-serif; !important}
+.display {font-family: 'Affogato-Regular', sans-serif;}
+.btn {font-family: 'Affogato-Regular', sans-serif;}
+.fw-bold {font-family: 'Affogato-Regular', sans-serif;}
+.fw-bolder {font-family: 'Affogato-Regular', sans-serif;}
 
 .bg-azzurro {
 background-color: #2DABE3;
 }
 
 #mainNav {
-    font-family: 'Affogato-regular', sans-serif; !important
+    font-family: 'Affogato-Regular', sans-serif;
 }
