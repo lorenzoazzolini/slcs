@@ -21,23 +21,23 @@
 }
 
 
-h1 {font-family: 'Affogato-Black', sans-serif; font-weight: 900;}
-h2 {font-family: 'Affogato-Regular', sans-serif;}
+h1 {font-family: 'Affogato-Black', sans-serif; font-weight: 900; !important}
+h2 {font-family: 'Affogato-Regular', sans-serif; !important}
 h3 {font-family: 'Affogato-Regular', sans-serif;}
-h4 {font-family: 'Affogato-Black', sans-serif; font-weight: 900;}
-h5 {font-family: 'Affogato-Regular', sans-serif;}
-h6 {font-family: 'Affogato-Regular', sans-serif;}
-p {font-family: 'Affogato-Regular', sans-serif;}
+h4 {font-family: 'Affogato-Black', sans-serif; font-weight: 900; !important}
+h5 {font-family: 'Affogato-Regular', sans-serif; !important}
+h6 {font-family: 'Affogato-Regular', sans-serif; !important}
+p {font-family: 'Affogato-Regular', sans-serif; !important}
 
-.display {font-family: 'Affogato-Regular', sans-serif;}
-.btn {font-family: 'Affogato-Regular', sans-serif;}
-.fw-bold {font-family: 'Affogato-Regular', sans-serif;}
-.fw-bolder {font-family: 'Affogato-Regular', sans-serif;}
+.display {font-family: 'Affogato-Regular', sans-serif; !important}
+.btn {font-family: 'Affogato-Regular', sans-serif; !important}
+.fw-bold {font-family: 'Affogato-Regular', sans-serif; !important}
+.fw-bolder {font-family: 'Affogato-Regular', sans-serif; !important}
 
 .bg-azzurro {
 background-color: #2DABE3;
 }
 
 #mainNav {
-    font-family: 'Affogato-Regular', sans-serif;
+    font-family: 'Affogato-Regular', sans-serif; !important
 }
