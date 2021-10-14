@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'Affogato-Black';
-    src: url('/css/webfont/Affogato-Black.eot');
-    src: url('/css/webfont/Affogato-Black.eot?#iefix') format('embedded-opentype'),
-    	 url('/css/webfont/Affogato-Black.woff') format('woff'),
-         url('/css/webfont/Affogato-Black.woff2') format('woff2'),
-         url('/css/webfont/Affogato-Black.ttf')  format('truetype'),
-         url('/css/webfont/Affogato-Black.svg') format('svg');
+    src: url("../webfont/Affogato-Black.eot");
+    src: url("../webfont/Affogato-Black.eot?#iefix") format('embedded-opentype'),
+    	 url("../webfont/Affogato-Black.woff") format('woff'),
+         url("../webfont/Affogato-Black.woff2") format('woff2'),
+         url("../webfont/Affogato-Black.ttf")  format('truetype'),
+         url("../webfont/Affogato-Black.svg") format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Affogato-Regular';
-    src: url('assets/affogato-webfont/webfont/Affogato-Regular.eot');
-    src: url('assets/affogato-webfont/webfont/Affogato-Regular.eot?#iefix') format('embedded-opentype'),
-    	 url('assets/affogato-webfont/webfont/Affogato-Regular.woff') format('woff'),
-         url('assets/affogato-webfont/webfont/Affogato-Regular.woff2') format('woff2'),
-         url('assets/affogato-webfont/webfont/Affogato-Regular.ttf')  format('truetype'),
-         url('assets/affogato-webfont/webfont/Affogato-Regular.svg') format('svg');
+    src: url("../webfont/Affogato-Regular.eot");
+    src: url("../webfont/Affogato-Regular.eot?#iefix") format('embedded-opentype'),
+    	 url("../webfont/Affogato-Regular.woff") format('woff'),
+         url("../webfont/Affogato-Regular.woff2") format('woff2'),
+         url("../webfont/Affogato-Regular.ttf")  format('truetype'),
+         url("../webfont/Affogato-Regular.svg") format('svg');
 }
 
 
